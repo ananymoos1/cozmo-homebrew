@@ -32,5 +32,5 @@ This repository demonstrates or shows how you can control and execute scripts on
 4. After clicking enter, you should see a pixelated video live from Cozmo's camera on Cozmo's screen.
 5. Now that you executed a script, you can execute other scripts in the scripts folder by replacing "video.py" with the file name of the script you want to use.
 ## Credits ##
-Zayfod
-Creators of the scripts in the scripts folder
+1. Zayfod.
+2. Creators of the scripts in the Scripts folder of the repository.
