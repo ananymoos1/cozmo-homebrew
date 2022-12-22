@@ -26,3 +26,9 @@ This repository demonstrates or shows how you can control and execute scripts on
 2. Type ```python3 -m pip install -U -r requirements.txt```
 3. After installing, it will show the current path of your PC blinking.
 ## Executing a script ##
+1. Connect to Cozmo's WiFi.
+2. Open your terminal into the Scripts folder of the repository.
+3. Type ```py video.py``` into the terminal and click enter.
+4. After clicking enter, you should see a pixelated video live from Cozmo's camera on Cozmo's screen.
+5. Now that you executed a script, you can execute other scripts in the scripts folder by replacing "video.py" with the file name of the script you want to use.
+## Enjoy ##
